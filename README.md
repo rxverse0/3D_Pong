@@ -1,0 +1,1 @@
+This project is a modern reimagining of the classic Pong arcade game, developed using C# in Unity. It features a simple and engaging 3D environment, where two players control paddles to bounce a ball back and forth, aiming to score points by making the opponent miss.
